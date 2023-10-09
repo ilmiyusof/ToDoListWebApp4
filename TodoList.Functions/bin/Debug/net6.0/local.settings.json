@@ -1,0 +1,14 @@
+﻿{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusConnectionString": "Endpoint=sb://sbproject14.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ik2K88m9SjChkrqu4r6LTAuju2d5QlG0O+ASbD9D0Jc=",
+    "SqlServerConnectionString": "Server=tcp:dbserver55.database.windows.net,1433;Initial Catalog=tododb;Persist Security Info=False;User ID=qistuna;Password=Avanade14;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "SignalRConnectionString": "Endpoint=https://tododbsir14.service.signalr.net;AccessKey=0NJeZP/QQpQQLVYpxn0dKUD1HXpT4vwRAqJxzJAAR/I=;Version=1.0;"
+  },
+  "Host": {
+    "CORS": "http://localhost:5000/",
+    "CORSCredentials": true
+  }
+}

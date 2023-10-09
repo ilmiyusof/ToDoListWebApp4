@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrOrKdYKs/nHuu8B4WWW9lGtPLabaYQe1eKKLflwsOcKWJY3zMrI2naBiESiygJXtp+41teNQypUGFEHaJP8fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k.ap.s.parameswaran\\Downloads\\azure-main\\azure-main\\projects\\serverless\\src\\entities\\ToDoList.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k.ap.s.parameswaran\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
